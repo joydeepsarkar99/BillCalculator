@@ -1,8 +1,6 @@
 # Bill Calculator
 An interactive web page employing HTML, CSS, and JavaScript to effortlessly distribute total bill costs among individuals by factoring in bill amount, tip, and per-person allocation.
 
-Deploy Link : In the about section👉
-
 BELOW ARE SOME SCREENSHOTS ATTACHED OF THE WEB PAGE
 
 ![Screenshot 2023-08-17 201018](https://github.com/joydeepsarkar99/BillCalculator/assets/138491246/058d0fe1-a0a7-4026-9b6d-9449dc53a6fe)
